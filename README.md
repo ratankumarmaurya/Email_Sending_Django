@@ -1,6 +1,10 @@
 # email
+RunServer 
+
 Email Sending with the help of Django 
 For directly open Below the link 
+
+http://127.0.0.1:8000/send-email/
 
 Important Point 
 Please change 
