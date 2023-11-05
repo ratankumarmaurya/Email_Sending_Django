@@ -6,6 +6,8 @@ Important Point
 Please change 
 
 EMAIL_HOST_USER='Enter_Your_Email' 
+
+
 EMAIL_HOST_PASSWORD='Enter_your_App_Password'
 
 https://github1s.com/ratankumarmaurya/email/blob/master/mail/web/utils.py
